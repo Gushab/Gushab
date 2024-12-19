@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on 1C projects on work
+- 🔭 I’m currently working on Node.JS, telegraf.js and fastify projects
 - 🌱 I’m currently learning english language, PHP, NodeJS and Docker
 - 👯 I’m looking to collaborate on travels, entertainments and learning programming
 - 🤔 I’m looking for help with learning PHP and Docker
